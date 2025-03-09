@@ -51,7 +51,3 @@ Feel free to contribute by reporting issues or suggesting improvements. You can 
 
 ## License
 This project is open-source and available under the **MIT License**.
-
----
-
-Enjoy using the **Unit Converter App**! 🚀
